@@ -1,4 +1,4 @@
-# SCT_SD_3
+# SCT_DS_3
 Task 3 — Decision Tree Classifier README
 Bank Marketing Prediction Using Decision Tree Classifier
 Project Overview
